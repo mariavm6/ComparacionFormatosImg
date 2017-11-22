@@ -1,0 +1,9 @@
+
+
+png - paleta 8 y 24
+guardar en tamaño grande desde inskape, comparar tamaños opr formatos
+si nos apetece hacerlo a mano o quitar capas para que ocupe menos
+
+
+
+https://medium.com/dev-channel/saving-bandwidth-with-images-8c28f52b5ef7
